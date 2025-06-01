@@ -1,4 +1,4 @@
-# 🌍 VacationVerse — Social Travel Discovery App
+# 🌍 Wanderlust — Social Travel Discovery App
 
 **Wanderlust** is a social web application designed to help users discover trendy local places and share their travel experiences. It combines maps, real-time location data, and a social media-style feed, enabling users to explore nearby attractions, see what others are doing, and contribute their own stories and recommendations.
 
