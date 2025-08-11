@@ -1,0 +1,15 @@
+# /src Directory Structure
+
+This document outlines the purpose of each top-level directory within the `[src](mdc:src)` folder.
+
+- **`[app](mdc:src/app)`**: Contains the core application logic using the Next.js App Router. This includes pages, layouts, and API routes.
+- **`[components](mdc:src/components)`**: Holds all reusable React components used throughout the application, such as buttons, navigation bars, and inputs.
+- **`[hooks](mdc:src/hooks)`**: Stores custom React hooks that encapsulate and reuse stateful logic.
+- **`[lib](mdc:src/lib)`**: A library for utility functions, helper scripts, and external service integrations (like the Foursquare API client). Code in here is generally not a React component.
+- **`[types](mdc:src/types)`**: Defines all custom TypeScript types and interfaces used across the project for better type safety and code clarity.
+
+description:
+globs:
+alwaysApply: false
+
+---
